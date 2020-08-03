@@ -128,7 +128,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d82ac690d93d6714b82f4b0a6d901ca4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  starCost: 100
+  starCost: 150
 --- !u!114 &7365919576932757259
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -157,7 +157,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0027663708, y: 0.015596271}
+  m_Offset: {x: -0.029239655, y: -0.04613304}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -168,7 +168,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.9499097, y: 0.9773333}
+  m_Size: {x: 0.47339058, y: 0.8538747}
   m_EdgeRadius: 0
 --- !u!95 &7365919576932757257
 Animator:
@@ -201,7 +201,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1bd21e1a4e926a249bbe274ba1b2466e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 100
+  health: 50
   deathVFX: {fileID: 0}
 --- !u!1 &7365919578071198922
 GameObject:

@@ -63,6 +63,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\MusicPlayer.cs" />
+    <Compile Include="Assets\OptionsController.cs" />
     <Compile Include="Assets\Scripts\Attacker.cs" />
     <Compile Include="Assets\Scripts\AttackerSpawner.cs" />
     <Compile Include="Assets\Scripts\DamageCollider.cs" />
@@ -73,13 +75,15 @@
     <Compile Include="Assets\Scripts\GameTimer.cs" />
     <Compile Include="Assets\Scripts\Health.cs" />
     <Compile Include="Assets\Scripts\LevelController.cs" />
-    <Compile Include="Assets\Scripts\LevelLoad.cs" />
+    <Compile Include="Assets\Scripts\LevelLoader.cs" />
     <Compile Include="Assets\Scripts\LivesDisplay.cs" />
     <Compile Include="Assets\Scripts\Lizard.cs" />
+    <Compile Include="Assets\Scripts\PlayerPrefsController.cs" />
     <Compile Include="Assets\Scripts\Projectile.cs" />
     <Compile Include="Assets\Scripts\RockBlocker.cs" />
     <Compile Include="Assets\Scripts\Shooter.cs" />
     <Compile Include="Assets\Scripts\StarDisplay.cs" />
+    <Compile Include="Assets\testdelete.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Daniel/Desktop/devprojects/Udemy/Complete C# Unity Developer/GardenTDGit/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
