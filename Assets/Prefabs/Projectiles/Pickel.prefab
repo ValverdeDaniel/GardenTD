@@ -117,7 +117,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 7
   rotationSpeed: 360
-  damage: 50
+  damage: 75
 --- !u!61 &9078237467043162207
 BoxCollider2D:
   m_ObjectHideFlags: 0
